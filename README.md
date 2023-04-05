@@ -17,12 +17,11 @@
 - [x] Python ![Python]
 - [x] Git ![Git]
 - [x] HTML ![HTML5]
-  - [ ] CSS ![CSS3] 
+  - [x] CSS ![CSS3] 
   - [ ] Js ![JavaScript]
 - [x] Markdown ![Markdown]
 - [ ]  PHP ![PHP]      
-- [ ]  Apache ![Apache]
-- [ ]  Django ![Django]     
+- [ ]  Apache ![Apache]  
     
 ### System
 Linux ![Linux]  
@@ -34,6 +33,7 @@ Window ![Windows]
 AWS ![AWS]  
 Google Cloud ![Google Cloud]  
 Cisco network  
+Django ![Django] 
 
 
 <!-- CONTACT -->
