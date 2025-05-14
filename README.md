@@ -8,35 +8,7 @@
   - Learning how stuff works 🛠️
   - Enjoy music and food 🎛️
 
-## Roadmap
-### Softwares & languages
-- [x] C ![C]  
-- [x] C++ ![C++]    
-- [x] C# ![C#]  
-- [x] Java ![Java]  
-- [x] Python ![Python]
-- [x] Git ![Git]
-- [x] HTML ![HTML5]
-  - [x] CSS ![CSS3] 
-  - [ ] Js ![JavaScript]
-- [x] Markdown ![Markdown]
-- [ ]  PHP ![PHP]      
-- [ ]  Apache ![Apache]  
-    
-### System
-Linux ![Linux]  
-CentOS ![CentOS]  
-STM32  
-Arduino ![Arduino]  
-Raspberry Pi ![Raspberry Pi]  
-Window ![Windows]  
-AWS ![AWS]  
-Google Cloud ![Google Cloud]  
-Cisco network  
-Django ![Django] 
 
-
-<!-- CONTACT -->
 ## Contact
 - [![linkedin]][linkedin-url]
 - [![GitHub]][GitHub-url]
